@@ -175,3 +175,4 @@ Things you may want to cover:
 ### association
 - belongs_to_active_hash: prefecture
 - belongs_to: user
+
